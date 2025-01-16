@@ -8,7 +8,6 @@ This repository contains a Python script for training a simple neural network. I
 ## Requirements
 - Python 3.x
 - NumPy
-- Matplotlib
 
 ## Usage
 Clone the repository and run the script:
